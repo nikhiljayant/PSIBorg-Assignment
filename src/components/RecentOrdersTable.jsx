@@ -43,7 +43,7 @@ const table_data = [
 
 const RecentOrdersTable = () => {
   return (
-    <div className="bg-[#202028] p-3 rounded-md">
+    <div className="bg-[#202028] h-[380px] p-3 rounded-md">
       <p className="text-white font-medium text-2xl">Recent Orders</p>
       <table className="text-white text-sm w-full mt-5">
         <thead className="border-b border-slate-700 text-left">
